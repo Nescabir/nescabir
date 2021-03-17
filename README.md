@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://blgn.dev/](https://blgn.dev/)
+- 📄 Know about my experiences at [https://blgn.dev/](https://blgn.dev/)
 
 - 📫 How to reach me **contact@blgn.dev**
 
