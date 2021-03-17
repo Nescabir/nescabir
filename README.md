@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nescabir&label=Profile%20views&color=b4770e&style=flat" alt="nescabir" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Kubernetes**
 
 - 📄 Know about my experiences at [https://blgn.dev/](https://blgn.dev/)
 
