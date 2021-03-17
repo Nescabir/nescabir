@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xnescabir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="xnescabir" /></a>
-<a href="https://linkedin.com/in/boulongne-baptiste" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="boulongne-baptiste" /></a>
-<a href="https://instagram.com/baptiste_blgn" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="baptiste_blgn" /></a>
-<a href="https://discord.gg/wwtqh5J" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" alt="wwtqh5J" /></a>
+<a href="https://twitter.com/xnescabir" target="blank"><img align="center" src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="xnescabir" /></a>
+<a href="https://linkedin.com/in/boulongne-baptiste" target="blank"><img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png" alt="boulongne-baptiste" /></a>
+<a href="https://instagram.com/baptiste_blgn" target="blank"><img align="center" src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="baptiste_blgn" /></a>
+<a href="https://discord.gg/wwtqh5J" target="blank"><img align="center" src="https://img.icons8.com/fluent/30/000000/discord-new-logo.png" alt="wwtqh5J" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
