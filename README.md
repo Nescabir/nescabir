@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xnescabir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xnescabir" height="30" width="40" /></a>
+<a href="https://twitter.com/xnescabir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xnescabir" height="30" width="40" style="color: blue;" /></a>
 <a href="https://linkedin.com/in/boulongne-baptiste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="boulongne-baptiste" height="30" width="40" /></a>
 <a href="https://instagram.com/baptiste_blgn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baptiste_blgn" height="30" width="40" /></a>
 <a href="https://discord.gg/wwtqh5J" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="wwtqh5J" height="30" width="40" /></a>
