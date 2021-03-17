@@ -19,10 +19,8 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/nescabir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nescabir" /></a>
-</p><br>
-<p>
-  <img align="center" src="https://img.icons8.com/fluent/30/000000/ethereum.png" alt="ethereum" /><code>0xb5f237443AdC9c6E078717B93e1CCcE36D22fEFd</code>
+  <a href="https://www.buymeacoffee.com/nescabir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nescabir" /></a>\
+  <img align="center" src="https://img.icons8.com/fluent/30/000000/ethereum.png" alt="ethereum" /> Address : <code>0xb5f237443AdC9c6E078717B93e1CCcE36D22fEFd</code>
 </p>
 <br><br>
 
