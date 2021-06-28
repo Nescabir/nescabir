@@ -24,7 +24,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_ignored: html, css, php
+          plugin_languages_ignored: html, css, php, c#
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
