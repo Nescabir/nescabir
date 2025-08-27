@@ -60,3 +60,4 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: Nescabir
+          plugin_music_token: ${{ secrets.LAST_FM_KEY }}
