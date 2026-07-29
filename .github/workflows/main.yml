@@ -64,12 +64,12 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: go-cs2-gsi
           plugin_repositories_order: featured
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: top
-          plugin_music_played_at: yes
-          plugin_music_provider: lastfm
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: Nescabir
-          plugin_music_token: ${{ secrets.LAST_FM_KEY }}
+          # plugin_music: yes
+          # plugin_music_limit: 4
+          # plugin_music_mode: top
+          # plugin_music_played_at: yes
+          # plugin_music_provider: lastfm
+          # plugin_music_time_range: short
+          # plugin_music_top_type: tracks
+          # plugin_music_user: Nescabir
+          # plugin_music_token: ${{ secrets.LAST_FM_KEY }}
