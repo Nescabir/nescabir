@@ -1,4 +1,7 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+# Visit https://github.com/gh-metrics/metrics#-documentation for full reference
+# Using the gh-metrics/metrics fork: lowlighter/metrics is in maintenance mode and
+# its activity plugin crashes on GitHub's current PushEvent payload (no more
+# payload.commits array) — the fork fixed this via compareCommitsWithBasehead.
 name: Metrics
 on:
   # Schedule updates (every day at 1am)
@@ -12,7 +15,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
